@@ -1,0 +1,5 @@
+com\javainuse\controller\ChannelController.class
+com\javainuse\Application.class
+com\javainuse\model\Channel.class
+com\javainuse\service\ChannelService.class
+com\javainuse\model\ChannelType.class
