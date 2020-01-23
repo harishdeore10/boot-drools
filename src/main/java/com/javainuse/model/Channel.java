@@ -76,3 +76,17 @@ public class Channel {
         this.channelType = channelType;
     }
 }
+
+/*
+* {
+    "vendorCategory": "GSV",
+    "vendor": "Any GSV",
+    "employeeClass": "Cat B",
+    "maxRate": 1499,
+	"location": "United Kingdom",
+    "channelType": null,
+    "l3": "ITID",
+    "l4": "All ITID L4"
+}
+*
+* */
