@@ -17,7 +17,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <kie.version>6.1.0.Final</kie.version>
         <drools-version>7.6.0.Final</drools-version>
-        <apache-poi-version>3.13</apache-poi-version>
+        <apache-poi-version>4.1.1</apache-poi-version>
     </properties>
 
     <dependencies>
